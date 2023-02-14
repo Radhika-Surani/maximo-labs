@@ -11,7 +11,6 @@ The new asset custom scores in  Maximo Health and Maximo Health and Predict - Ut
 
 - **Formula based** which is in Health today. Doesn't require any coding and uses an Excel style approach for calculating a custom score
 - **Notebook based** deployed as Watson Studio job which provides greater customization using Python and enables the score to also be calculated into the future.
-- **Notebook based** deployed IBM Machine Learning Service.  provides greater customization using Python and enables the score to also be calculated into the future. 
 
 The lab will cover how to create custom scores, how they can be visualized to help the user make better repair/replace decisions, and how they can be used to select assets for investment projects.
 
