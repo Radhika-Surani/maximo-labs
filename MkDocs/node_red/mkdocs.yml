@@ -1,0 +1,20 @@
+site_name: Node-RED Labs
+site_url: https://mam-hol.eu-gb.mybluemix.net/
+site_author: Mike Lamb & Contributors
+site_description: "Node-Red Hands on Lab"
+google_analytics: ['UA-159649729-1', 'auto']
+site_dir: ../../site/node_red
+
+nav:
+  - Get back to Maximo Labs: /
+  - Node-Red Labs:
+    - Welcome to the Node-Red Labs: index.md
+    - Pre-Requisites: prereqs.md
+    - Exercises:
+        - 1. Deploy Node-RED on OpenShift: deploy_ocp.md
+  - About: about.md
+
+theme: readthedocs
+markdown_extensions:
+  - attr_list
+  - admonition
